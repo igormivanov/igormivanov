@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone 👋, I'm Igor Ivanov</h1>
 <h3 align="center">IT Developer | Brazil</h3>
 
-- 📄 Some of my projects are available at [https://github.com/Karoladd/](https://github.com/Karoladd/Karoladd)
+- 📄 Some of my projects are available at [https://github.com/igormivanov](https://github.com/igormivanov)
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me **igormivanovx@gmail.com** 
 
