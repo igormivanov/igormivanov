@@ -2,19 +2,42 @@
 <h3 align="center">IT Developer | Brazil</h3>
 
 
-
+<table align= "center">
+  
+  <tr>
+     <td align="center" width="140" height="112.43">
+        <img src="./assets/html-original.svg" width="48" height="48" alt="React.js" />
+      <br>HTML5
+    </td>
+    <td align="center"  width="140" height="112.43">
+        <img src="./assets/css-original.svg" width="48" height="48" alt="React Native" />
+      <br>CSS3
+    </td>
+    <td align="center"  width="140" height="112.43">
+        <img src="./assets/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center"  width="140" height="112.43">
+        <img src="./assets/c-original.svg" width="48" height="48" alt="TypeScript" />
+      <br>C
+    </td>
+    <td align="center"  width="140" height="112.43">
+        <img src="./assets/git-original.svg" width="48" height="48" alt="Sass" />
+      <br>Git
+    </td>
+  </tr>
+  
+</table>
 
 <div style="display: flex">
   <div>
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px"         width="400px" align="right" alt="Computador iuriCode">
-  </div>
-  <div>
     
   </div>
 </div>
  
 
-<div >
+<div align: center>
   <a href="https://github.com/igormivanov">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=igormivanov&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormivanov&layout=compact&langs_count=7&theme=gotham"/>
