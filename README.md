@@ -44,7 +44,7 @@
   <a href="https://instagram.com/igormivanov" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-ivanov-592722232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:igormivanovx@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <h4>Studying in this moment:  <i>Javascript<i></h4>
+  <h4>Studying in this moment:  <i>Java<i></h4>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7525B5&height=120&section=footer"/>
