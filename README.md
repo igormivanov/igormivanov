@@ -5,11 +5,11 @@
 <table align= "center">
   <tr>
      <td align="center" width="120" height="112.43" >
-        <img src="./assets/html-original.svg" width="48" height="48" alt="React.js" />
+        <img src="./assets/html-original.svg" width="48" height="48" alt="html" />
       <br>HTML5
     </td>
     <td align="center"  width="120" height="112.43">
-        <img src="./assets/css-original.svg" width="48" height="48" alt="React Native" />
+        <img src="./assets/css-original.svg" width="48" height="48" alt="Css" />
       <br>CSS3
     </td>
     <td align="center"  width="120" height="112.43">
@@ -17,12 +17,16 @@
       <br>JavaScript
     </td>
     <td align="center"  width="120" height="112.43">
-        <img src="./assets/c-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./assets/c-original.svg" width="48" height="48" alt="C" />
       <br>C
     </td>
     <td align="center"  width="120" height="112.43">
-        <img src="./assets/git-original.svg" width="48" height="48" alt="Sass" />
+        <img src="./assets/git-original.svg" width="48" height="48" alt="Git" />
       <br>Git
+    </td>
+    <td align="center"  width="120" height="112.43">
+        <img src="./assets/java-icon.svg" width="48" height="48" alt="Java" />
+      <br>Java
     </td>
   </tr>
 </table><br><br>
