@@ -39,8 +39,9 @@
 
 <div align="center">
   <a href="https://github.com/igormivanov">
-  <img src="https://github-readme-stats.vercel.app/api?username=igormivanov&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=C393F8&icon_color=C393F8&text_color=D3D3D3&bg_color=0,15045E,7525B5" alt="Igormivanov's Github Stats" height="130em" width="400em">
-  <img height="130em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormivanov&layout=compact&langs_count=7&line_height=20&title_color=C393F8&icon_color=C393F8&text_color=D3D3D3&bg_color=0,15045E,7525B5" alt="Igormivanov's Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=igormivanov&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=C393F8&icon_color=C393F8&text_color=D3D3D3&bg_color=0,15045E,7525B5" alt="Igormivanov's Github Stats" height="195px" width="45%">
+ 
+  <img height="195px" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormivanov&layout=compact&langs_count=7&line_height=20&title_color=C393F8&icon_color=C393F8&text_color=D3D3D3&bg_color=0,15045E,7525B5" alt="Igormivanov's Github Stats">
 </div><br>
   
  
