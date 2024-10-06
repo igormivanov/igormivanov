@@ -1,7 +1,7 @@
 <h1 align="center">Igor Ivanov - Software Developer</h1>
 
 <div align="center">
-  (Java | Spring Boot | React JS | Node JS | Typescript | Javascript | HTML | CSS | Docker )
+  ( Java | Spring Boot | C# | .NET | React JS | Javascript | Docker )
   
   <br>
   <br>
@@ -20,6 +20,6 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-ivanov-592722232)](https://www.linkedin.com/in/igor-ivanov-592722232)
 [![Gmail Badge](https://img.shields.io/badge/-igormivanovx@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igormivanovx@gmail.com)](mailto:igormivanovx@gmail.com)
   
-  <h4>Studying in this moment:  <i>Patterns and microservices in Java<i></h4>
+  <h4>Studying in this moment:  <i>.NET<i></h4>
 </div>
 
